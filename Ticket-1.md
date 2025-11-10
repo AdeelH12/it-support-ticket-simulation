@@ -18,4 +18,5 @@
 - **Resolution Notes**:
   > "User reported login failure to Outlook. Verified identity. Checked AD — account was active. Performed password reset. User confirmed successful login."
 - **Final State**: Closed
+
 - **Screenshot**: Ticket-1-Password-Reset.png
