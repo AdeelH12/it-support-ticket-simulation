@@ -1,0 +1,21 @@
+## Ticket #1 – Password Reset (Outlook Login Issue)
+
+- **Incident Number**: INC0010002
+- **Tool**: ServiceNow Developer Instance
+- **Caller**: Abel Tuter
+- **Issue**: Outlook login failure. User suspected incorrect password.
+- **Category**: Inquiry / Help
+- **Subcategory**: Email
+- **Priority**: 3 – Moderate
+- **Assignment Group**: Service Desk
+- **Assigned To**: Beth Anglin
+- **Action Taken**:
+  - Verified user identity
+  - Checked AD account – status was active
+  - Performed password reset
+  - User confirmed successful login
+- **Resolution Code**: Solution provided
+- **Resolution Notes**:
+  > "User reported login failure to Outlook. Verified identity. Checked AD — account was active. Performed password reset. User confirmed successful login."
+- **Final State**: Closed
+- **Screenshot**: Ticket-1-Password-Reset.png
