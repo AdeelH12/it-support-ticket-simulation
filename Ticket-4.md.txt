@@ -1,4 +1,4 @@
-## 🧾 Ticket #4 – Account Locked / Password Reset (James Haider)
+## 🧾 Ticket #4 – Account Locked / Password Reset (Janet Schaffter)
 
 - **Ticket ID:** INC00XXXX  
 - **Caller:** Janet Schaffter  
@@ -29,13 +29,13 @@
 
 ### ✅ Resolution Notes
 
-Reset password for James Haider and provided temporary credentials. User advised to change password at next login. Issue resolved.
+Reset password for Janet Schaffter and provided temporary credentials. User advised to change password at next login. Issue resolved.
 
 ---
 
 ### 💬 Additional Comments (User-Facing)
 
-> Hi James, your password has been reset. Please use the temporary password: `TempPass#2025`.  
+> Hi Janet, your password has been reset. Please use the temporary password: `TempPass#2025`.  
 > You’ll be prompted to set a new password when you log in. Let us know if you need anything else.
 
 ---
