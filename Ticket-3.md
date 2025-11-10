@@ -38,6 +38,11 @@ Completed onboarding setup for Yusuf Khan. User account created, temporary passw
 
 ---
 
+### 📸 Screenshot
+
+![Ticket 3 – Outlook Login Failure](./screenshots/Ticket-3-NewStarter.png)
+
+
 ### 💬 Additional Comments (User-Facing)
 
 > Hi Claire, Yusuf Khan's account has been set up and access to all systems has been provided. His login credentials have been shared securely. Let us know if anything is missing. Thanks!
@@ -47,3 +52,4 @@ Completed onboarding setup for Yusuf Khan. User account created, temporary passw
 ### 📸 Screenshot
 
 ![Ticket 3 – Yusuf Khan Setup](./Ticket-3-New-Starter-Yusuf-Khan.png)
+
