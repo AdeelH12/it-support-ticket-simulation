@@ -42,4 +42,5 @@ Reset password for Janet Schaffter and provided temporary credentials. User advi
 
 ### 📸 Screenshot
 
-![Ticket 4 – Password Reset](./Ticket-4-Password-Reset.png)
+![Ticket 4 – Password Reset](./screenshots/Ticket-4-Password-Reset.png)
+
