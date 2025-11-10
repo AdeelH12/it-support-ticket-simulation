@@ -7,7 +7,7 @@
 - **Start Date:** Immediate  
 - **Short Description:** New starter onboarding – Yusuf Khan  
 - **Full Description:**  
-  Claire Walsh requested IT to onboard new Finance team member Yusuf Khan. The user required a full setup including login credentials and access to all standard systems used within the department. No account or system access had been provisioned yet.
+  Carolina Kinlaw requested IT to onboard new Finance team member Yusuf Khan. The user required a full setup including login credentials and access to all standard systems used within the department. No account or system access had been provisioned yet.
 
 - **Category/Subcategory:** Access Management / New Hire  
 - **Priority:** 3 – Moderate  
@@ -27,7 +27,7 @@
 - Granted access to Finance shared drive  
 - Mapped Finance department network printer  
 - Added Yusuf to Microsoft Teams and assigned him to the Finance channel  
-- Provided login credentials to line manager Claire Walsh  
+- Provided login credentials to line manager Carolina Kinlaw  
 - Setup confirmed with manager
 
 ---
@@ -45,11 +45,7 @@ Completed onboarding setup for Yusuf Khan. User account created, temporary passw
 
 ### 💬 Additional Comments (User-Facing)
 
-> Hi Claire, Yusuf Khan's account has been set up and access to all systems has been provided. His login credentials have been shared securely. Let us know if anything is missing. Thanks!
+> Hi Carolina , Yusuf Khan's account has been set up and access to all systems has been provided. His login credentials have been shared securely. Let us know if anything is missing. Thanks!
 
----
 
-### 📸 Screenshot
-
-![Ticket 3 – Yusuf Khan Setup](./Ticket-3-New-Starter-Yusuf-Khan.png)
 
