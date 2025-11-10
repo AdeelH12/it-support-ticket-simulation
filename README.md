@@ -25,9 +25,9 @@ Below are screenshots of each completed ticket taken from the ServiceNow Classic
 
 | Ticket | Screenshot |
 |--------|------------|
-| Ticket 1 | ![Ticket 1](./screenshots/Ticket-1-Screenshot.png) |
-| Ticket 2 | ![Ticket 2](./screenshots/Ticket-2-Screenshot.png) |
-| Ticket 3 | ![Ticket 3](./screenshots/Ticket-3-New-Starter-Yusuf-Khan.png) |
+| Ticket 1 | ![Ticket 1](./screenshots/Ticket-1-Password-Reset.png) |
+| Ticket 2 | ![Ticket 2](./screenshots/Ticket-2-Printer.png) |
+| Ticket 3 | ![Ticket 3](./screenshots/Ticket-3-NewStarter.png) |
 | Ticket 4 | ![Ticket 4](./screenshots/Ticket-4-Password-Reset.png) |
 
 > ⚠️ If images do not load, ensure the screenshot files are named exactly as shown above and located in the `/screenshots` folder.
@@ -52,5 +52,6 @@ Below are screenshots of each completed ticket taken from the ServiceNow Classic
 - Snipping Tool for screenshots
 
 ---
+
 
 
