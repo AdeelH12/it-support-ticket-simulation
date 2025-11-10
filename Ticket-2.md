@@ -12,6 +12,8 @@
 - **Resolution Code:** Solution provided  
 - **State:** Closed  
 - **SLA:** Met
+  
+---
 
 ### 🛠️ Work Notes (Internal Only)
 - Verified network printer was powered on and online  
@@ -22,5 +24,13 @@
 - Sent test print — printed successfully  
 - Confirmed resolution with user
 
+---
+
 ### ✅ Resolution Notes
 Reinstalled the printer driver and cleared the print queue on the user's machine. Added the correct network printer and confirmed successful test print. Issue resolved.
+
+---
+
+### 📸 Screenshot
+
+![Ticket 2 –](./screenshots/Ticket-2-Printer.png)
